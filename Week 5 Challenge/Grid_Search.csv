@@ -39,7 +39,7 @@
 37,929,3,"Cacic, Miss. Manda",0,0,1,0,2,0
 38,930,3,"Sap, Mr. Julius",0,0,1,1,2,0
 39,931,3,"Hee, Mr. Ling",0,0,1,1,2,0
-40,932,3,"Karun, Mr. Franz",0,1,1,1,0,1
+40,932,3,"Karun, Mr. Franz",0,1,1,1,0,0
 41,933,1,"Franklin, Mr. Thomas Parham",0,0,1,1,2,0
 42,934,3,"Goldsmith, Mr. Nathan",0,0,1,1,2,0
 43,935,2,"Corbett, Mrs. Walter H (Irene Colvin)",0,0,1,0,2,1
@@ -63,7 +63,7 @@
 61,953,2,"McCrae, Mr. Arthur Gordon",0,0,1,1,2,0
 62,954,3,"Bjorklund, Mr. Ernst Herbert",0,0,1,1,2,0
 63,955,3,"Bradley, Miss. Bridget Delia",0,0,1,0,1,1
-64,956,1,"Ryerson, Master. John Borie",2,2,3,1,0,1
+64,956,1,"Ryerson, Master. John Borie",2,2,3,1,0,0
 65,957,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",0,0,1,0,2,1
 66,958,3,"Burns, Miss. Mary Delia",0,0,1,0,1,1
 67,959,1,"Moore, Mr. Clarence Bloomfield",0,0,1,1,2,0
@@ -141,7 +141,7 @@
 139,1031,3,"Goodwin, Mr. Charles Frederick",1,6,2,1,2,0
 140,1032,3,"Goodwin, Miss. Jessie Allis",5,2,6,0,2,0
 141,1033,1,"Daniels, Miss. Sarah",0,0,1,0,2,1
-142,1034,1,"Ryerson, Mr. Arthur Larned",1,3,2,1,0,1
+142,1034,1,"Ryerson, Mr. Arthur Larned",1,3,2,1,0,0
 143,1035,2,"Beauchamp, Mr. Henry James",0,0,1,1,2,0
 144,1036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",0,0,1,1,2,0
 145,1037,3,"Vander Planke, Mr. Julius",3,0,4,1,2,0

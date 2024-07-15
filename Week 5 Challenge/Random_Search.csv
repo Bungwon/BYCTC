@@ -22,7 +22,7 @@
 20,912,1,"Rothschild, Mr. Martin",1,0,2,1,0,0
 21,913,3,"Olsen, Master. Artur Karl",0,1,1,1,2,0
 22,914,1,"Flegenheim, Mrs. Alfred (Antoinette)",0,0,1,0,2,1
-23,915,1,"Williams, Mr. Richard Norris II",0,1,1,1,0,1
+23,915,1,"Williams, Mr. Richard Norris II",0,1,1,1,0,0
 24,916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1,3,2,0,0,1
 25,917,3,"Robins, Mr. Alexander A",1,0,2,1,2,0
 26,918,1,"Ostby, Miss. Helene Ragnhild",0,1,1,0,0,1
@@ -68,7 +68,7 @@
 66,958,3,"Burns, Miss. Mary Delia",0,0,1,0,1,1
 67,959,1,"Moore, Mr. Clarence Bloomfield",0,0,1,1,2,0
 68,960,1,"Tucker, Mr. Gilbert Milligan Jr",0,0,1,1,0,0
-69,961,1,"Fortune, Mrs. Mark (Mary McDougald)",1,4,2,0,2,1
+69,961,1,"Fortune, Mrs. Mark (Mary McDougald)",1,4,2,0,2,0
 70,962,3,"Mulvihill, Miss. Bertha E",0,0,1,0,1,1
 71,963,3,"Minkoff, Mr. Lazar",0,0,1,1,2,0
 72,964,3,"Nieminen, Miss. Manta Josefina",0,0,1,0,2,0
@@ -84,7 +84,7 @@
 82,974,1,"Case, Mr. Howard Brown",0,0,1,1,2,0
 83,975,3,"Demetri, Mr. Marinko",0,0,1,1,2,0
 84,976,2,"Lamb, Mr. John Joseph",0,0,1,1,1,0
-85,977,3,"Khalil, Mr. Betros",1,0,2,1,0,0
+85,977,3,"Khalil, Mr. Betros",1,0,2,1,0,1
 86,978,3,"Barry, Miss. Julia",0,0,1,0,1,1
 87,979,3,"Badman, Miss. Emily Louisa",0,0,1,0,2,0
 88,980,3,"O'Donoghue, Ms. Bridget",0,0,1,0,1,1
@@ -114,7 +114,7 @@
 112,1004,1,"Evans, Miss. Edith Corse",0,0,1,0,0,1
 113,1005,3,"Buckley, Miss. Katherine",0,0,1,0,1,1
 114,1006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",1,0,2,0,2,1
-115,1007,3,"Chronopoulos, Mr. Demetrios",1,0,2,1,0,0
+115,1007,3,"Chronopoulos, Mr. Demetrios",1,0,2,1,0,1
 116,1008,3,"Thomas, Mr. John",0,0,1,1,0,0
 117,1009,3,"Sandstrom, Miss. Beatrice Irene",1,1,2,0,2,0
 118,1010,1,"Beattie, Mr. Thomson",0,0,1,1,0,0
@@ -132,7 +132,7 @@
 130,1022,3,"Spinner, Mr. Henry John",0,0,1,1,2,0
 131,1023,1,"Gracie, Col. Archibald IV",0,0,1,1,0,0
 132,1024,3,"Lefebre, Mrs. Frank (Frances)",0,4,1,0,2,0
-133,1025,3,"Thomas, Mr. Charles P",1,0,2,1,0,0
+133,1025,3,"Thomas, Mr. Charles P",1,0,2,1,0,1
 134,1026,3,"Dintcheff, Mr. Valtcho",0,0,1,1,2,0
 135,1027,3,"Carlsson, Mr. Carl Robert",0,0,1,1,2,0
 136,1028,3,"Zakarian, Mr. Mapriededer",0,0,1,1,0,0
@@ -213,7 +213,7 @@
 211,1103,3,"Finoli, Mr. Luigi",0,0,1,1,2,0
 212,1104,2,"Deacon, Mr. Percy William",0,0,1,1,2,0
 213,1105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",1,0,2,0,2,1
-214,1106,3,"Andersson, Miss. Ida Augusta Margareta",4,2,5,0,2,0
+214,1106,3,"Andersson, Miss. Ida Augusta Margareta",4,2,5,0,2,1
 215,1107,1,"Head, Mr. Christopher",0,0,1,1,2,0
 216,1108,3,"Mahon, Miss. Bridget Delia",0,0,1,0,1,1
 217,1109,1,"Wick, Mr. George Dennick",1,1,2,1,2,0
@@ -248,7 +248,7 @@
 246,1138,2,"Karnes, Mrs. J Frank (Claire Bennett)",0,0,1,0,2,1
 247,1139,2,"Drew, Mr. James Vivian",1,1,2,1,2,1
 248,1140,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",1,0,2,0,2,1
-249,1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1,0,2,0,0,1
+249,1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1,0,2,0,0,0
 250,1142,2,"West, Miss. Barbara J",1,2,2,0,2,1
 251,1143,3,"Abrahamsson, Mr. Abraham August Johannes",0,0,1,1,2,0
 252,1144,1,"Clark, Mr. Walter Miller",1,0,2,1,0,0
@@ -365,7 +365,7 @@
 363,1255,3,"Strilic, Mr. Ivan",0,0,1,1,2,0
 364,1256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",1,0,2,0,0,1
 365,1257,3,"Sage, Mrs. John (Annie Bullen)",1,9,2,0,2,0
-366,1258,3,"Caram, Mr. Joseph",1,0,2,1,0,0
+366,1258,3,"Caram, Mr. Joseph",1,0,2,1,0,1
 367,1259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",0,0,1,0,2,0
 368,1260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",0,1,1,0,0,1
 369,1261,2,"Pallas y Castello, Mr. Emilio",0,0,1,1,0,0
